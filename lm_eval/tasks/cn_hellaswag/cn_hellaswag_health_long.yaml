@@ -1,0 +1,3 @@
+"dataset_name": "health_long"
+"include": "_default_template_yaml"
+"task": "cn_hellaswag_health_long"

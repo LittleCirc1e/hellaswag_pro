@@ -1,0 +1,18 @@
+"aggregate_metric_list":
+- "aggregation": "mean"
+  "metric": "acc"
+  "weight_by_size": !!bool "true"
+- "aggregation": "mean"
+  "metric": "acc_norm"
+  "weight_by_size": !!bool "true"
+"group": "exper_robust_zh"
+"metadata":
+  "version": !!float "0.0"
+"task":
+- "exper_robust_zh_abductive_reasoning"
+- "exper_robust_zh_critical_thinking"
+- "exper_robust_zh_negative_testing"
+- "exper_robust_zh_problem_reparagraphing"
+- "exper_robust_zh_reverse_conversion"
+- "exper_robust_zh_scene_transition"
+- "exper_robust_zh_sentence_sorting"

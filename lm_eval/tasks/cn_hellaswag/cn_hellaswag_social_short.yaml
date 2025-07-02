@@ -1,0 +1,3 @@
+"dataset_name": "social_short"
+"include": "_default_template_yaml"
+"task": "cn_hellaswag_social_short"

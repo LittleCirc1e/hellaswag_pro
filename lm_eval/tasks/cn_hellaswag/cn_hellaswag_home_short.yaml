@@ -1,0 +1,3 @@
+"dataset_name": "home_short"
+"include": "_default_template_yaml"
+"task": "cn_hellaswag_home_short"

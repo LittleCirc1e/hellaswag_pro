@@ -1,0 +1,3 @@
+"dataset_name": "leisure_medium"
+"include": "_default_template_yaml"
+"task": "cn_hellaswag_leisure_medium"

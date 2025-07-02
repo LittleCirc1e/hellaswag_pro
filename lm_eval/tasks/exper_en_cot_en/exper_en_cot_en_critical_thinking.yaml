@@ -1,0 +1,10 @@
+description: "The following is a multiple-choice question about common sense reasoning and the options. Please think step by step and then give your answer at the end with \"the answer is X\", where X is the correct option."
+include: "_default_template_yaml"
+task: "exper_en_cot_en_critical_thinking"
+task_alias: "critical_thinking"
+process_docs: !function utils1.process_critical_thinking
+fewshot_config:
+  sampler: first_n
+  doc_to_text: !function utils1.fewshot_to_text
+  doc_to_target: ""
+doc_to_text: !function utils1.doc_to_text

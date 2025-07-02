@@ -1,0 +1,5 @@
+description: "下面是一个关于常识推理的多选问题及选项。请一步步思考然后以\"答案是X\"结尾给出你的答案，X是正确选项。"
+include: "_default_template_yaml"
+task: "exper_zh_cot_en_scene_transition"
+task_alias: "scene_transition"
+process_docs: !function utils.process_scene_transition

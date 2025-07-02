@@ -1,0 +1,10 @@
+description: "下面是一个关于常识推理的多选问题及选项。请一步步思考然后以\"答案是X\"结尾给出你的答案，X是正确选项。"
+include: "_default_template_yaml"
+task: "exper_zh_cot_en_critical_thinking"
+task_alias: "critical_thinking"
+process_docs: !function utils1.process_critical_thinking
+fewshot_config:
+  sampler: first_n
+  doc_to_text: !function utils1.fewshot_to_text
+  doc_to_target: ""
+doc_to_text: !function utils1.doc_to_text

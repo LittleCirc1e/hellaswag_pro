@@ -1,0 +1,5 @@
+description: "The following is a multiple-choice question about common sense reasoning and the options. Please think step by step and then give your answer at the end with \"the answer is X\", where X is the correct option."
+include: "_default_template_yaml"
+task: "exper_en_cot_sentence_sorting"
+task_alias: "sentence_sorting"
+process_docs: !function utils.process_sentence_sorting

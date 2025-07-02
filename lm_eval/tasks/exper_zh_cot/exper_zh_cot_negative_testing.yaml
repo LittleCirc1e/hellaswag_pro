@@ -1,0 +1,5 @@
+description: "下面是一个关于常识推理的多选问题及选项。请一步步思考然后以\"答案是X\"结尾给出你的答案，X是正确选项。"
+include: "_default_template_yaml"
+task: "exper_zh_cot_negative_testing"
+task_alias: "negative_testing"
+process_docs: !function utils.process_negative_testing

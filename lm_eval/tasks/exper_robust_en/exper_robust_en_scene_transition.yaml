@@ -1,0 +1,3 @@
+"dataset_name": "scene_transition"
+"include": "_default_template_yaml"
+"task": "exper_robust_en_scene_transition"
