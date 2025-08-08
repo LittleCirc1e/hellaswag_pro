@@ -1,0 +1,50 @@
+[
+     {
+          "original_context": "A group of cheerleaders run onto a stage before a cheering audience. they",
+          "original_choices": ["get into formation, then begin dancing and flipping as male cheerleaders join them.", "perform a cheer routine before the girls, along with makeup artists, spread out and pose.", "take turns jumping on each other like they are performing karate.", "are then shown performing the type of cheerleading dance, using batons and pole vaults."],
+          "original_label": 0,
+          "perturbation_type": "sentence_sorting",
+          "context": "1. They get into formation, then begin dancing and flipping as male cheerleaders join them. 2. A group of cheerleaders run onto a stage before a cheering audience. 3. They all continue dancing and flipping, doing hand springs. Which is the correct order?",
+          "choices": ["2-1-3", "1-2-3","2-3-1","3-1-2"],
+          "label": 0,
+          "explanation": "First, put the original_context (A group of cheerleaders run onto a stage before a cheering audience. they) and the original_label (0) corresponding to the original_choices (get into formation, then begin dancing and flipping as male cheerleaders join them.) into a complete paragraph, paying attention to the conversion of uppercase and lowercase (They). Then predict the development of subsequent event (They all continue dancing and flipping, doing hand springs.) and continue writing to form a paragraph (A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs.). Next shuffle the order of the sentences and mark them with serial numbers. Then, for the overall fluency, add the sentence (Which is the correct order?) to the end. The correct option is the order corresponding to the original paragraph (2-1-3), and is placed in the first position of choices, and the label is set to 0. The other three wrong options disrupt the order of the numbers in the correct option."
+     },
+     {
+
+          "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+          
+          "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+          
+          "original_label": 1,
+          
+          "perturbation_type": "sentence_sorting",
+          
+          "context": "1. Then he takes a small stone from the flowing river and smashes it on another stone. 2. A man is holding a pocket knife while sitting on some rocks in the wilderness. 3. He examines the sharpened stone carefully, testing its edge with his thumb. Which is the correct order?",
+          
+          "choices": ["2-1-3", "1-2-3", "2-3-1", "3-1-2"],
+          
+          "label": 0,
+          
+          "explanation": "First, I combined the original_context with the original_choice corresponding to the original_label (1) to form a complete sentence: 'A man is holding a pocket knife while sitting on some rocks in the wilderness. Then he takes a small stone from the flowing river and smashes it on another stone.' I then predicted a subsequent event to create a third sentence: 'He examines the sharpened stone carefully, testing its edge with his thumb.' These sentences were then shuffled and numbered. The correct order (2-1-3) was placed as the first choice, with the label set to 0. Three incorrect options were created by shuffling the numbers in the correct order. 'Which is the correct order?' was added at the end of the context for completeness. The capitalization in the context was adjusted for correctness."
+          
+     },
+     {
+
+          "original_context": "We see the underwater sea floor. two people",
+          
+          "original_choices": ["swim in front of the camera.", "push the cups of at the sea floor and the sea floor begins to rise.", "are sitting in a kayak behind the water.", "engage in a game of water polo."],
+          
+          "original_label": 0,
+          
+          "perturbation_type": "sentence_sorting",
+          
+          "context": "1. Two people swim in front of the camera. 2. We see the underwater sea floor. 3. They explore the colorful coral reefs and marine life. 4. The swimmers then surface for air. Which is the correct order?",
+          
+          "choices": ["2-1-3-4", "1-2-4-3", "3-2-1-4", "4-3-1-2"],
+          
+          "label": 0,
+          
+          "explanation": "First, I combined the original_context and the original_choice corresponding to the original_label into a complete sentence, correcting the capitalization (We see the underwater sea floor. Two people swim in front of the camera.). Then, I predicted the development of subsequent events and added two more sentences to form a coherent paragraph (They explore the colorful coral reefs and marine life. The swimmers then surface for air.). Next, I shuffled the order of the sentences and marked them with serial numbers. I added 'Which is the correct order?' at the end for clarity. The correct option (2-1-3-4) represents the order of the original paragraph and is placed as the first choice, with the label set to 0. The other three options are variations of this order to serve as distractors."
+          
+     }
+ ]

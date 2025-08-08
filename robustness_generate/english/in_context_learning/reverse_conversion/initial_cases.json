@@ -1,0 +1,32 @@
+[
+     {
+          "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+          "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+          "original_label": 3,
+          "perturbation_type": "reverse_conversion",
+          "context": "The lady stands and lifts the weight over her head. Which could be the possible context for this action?",
+          "choices": ["A lady walks to a barbell. She bends down and grabs the pole.", "A woman approaches a treadmill. She steps onto the machine and presses the start button.", "A man enters a swimming pool. He adjusts his goggles and dives into the water.", "A person sits down at a piano. They open the lid and place their fingers on the keys.", "An athlete arrives at a track. She puts on her running shoes and stretches her legs.", "A cyclist mounts his bicycle. He clips his feet into the pedals and adjusts his helmet.", "A gymnast approaches the balance beam. She chalks her hands and takes a deep breath.","A boxer enters the ring. He touches gloves with his opponent and assumes a fighting stance.", "A yoga practitioner unrolls her mat. She removes her shoes and sits in a cross-legged position.", "A rock climber reaches the base of a cliff. He secures his harness and checks his equipment."],
+          "label": 0,
+          "explanation": "The transformed case reversed the original case by making the last sentence of the original paragraph (the correct choice) into the new context. And for semantic fluency, 'What could be the possible context for this action?' is appended to the new context. The first part of the original context became the correct choice in the new set of options. Three other plausible but incorrect choices that follow a similar structure and length as the correct option are then generated, all describing a woman starting a different type of exercise. The label is set to 0 as it corresponds to the correct choice in the new set of options."
+     },
+     {
+         "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+         "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+         "original_label": 1,
+         "perturbation_type": "reverse_conversion",
+         "context": "The man takes a small stone from the flowing river and smashes it on another stone. Which could be the possible context for this action?",
+         "choices": ["A man is holding a pocket knife while sitting on some rocks in the wilderness.","A hiker is trying to start a campfire in a damp forest.","A geologist is examining rock formations in a canyon.","A child is playing by a stream during a family picnic.","An artist is creating a natural sculpture for an outdoor exhibition.","A survivalist is demonstrating primitive tool-making techniques.","A researcher is collecting rock samples for a scientific study.","A photographer is setting up a scene for a nature magazine shoot.","A tourist is attempting to skip stones across a lake's surface.","An archaeologist is searching for ancient artifacts in a riverbed."],
+         "label": 0,
+         "explanation": "The context has been reversed from the original, focusing on the action of smashing a small stone on another stone. The correct choice (label 0) describes the original setting of a man holding a pocket knife while sitting on rocks in the wilderness, which provides the most likely context for the action described in the new context. The other choices are plausible scenarios where someone might perform a similar action, but they don't match the specific details given in the original context."
+     },
+     {
+         "original_context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they",
+         "original_choices": ["are done, they shake hands and walk away, but cheers are heard all around as they're finished.", "are finished, they jump up and down happily and walk off the stage, exhausted.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing."],
+         "original_label": 1,
+         "perturbation_type": "reverse_conversion",
+         "context": "When they are finished, they jump up and down happily and walk off the stage, exhausted. Which could be the possible context for this action?",
+         "choices": ["They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs.","A group of athletes completes an intense training session at the gym.","Actors wrap up filming a challenging action scene for a movie.","Musicians finish a high-energy concert performance on stage.","Contestants complete a rigorous obstacle course on a game show.","A dance troupe concludes their final dress rehearsal before opening night.","Students finish their last exam of the semester.","Participants complete a marathon race through the city.","A team of acrobats finishes their circus performance.","Fitness instructors conclude a challenging group exercise class."],
+         "label": 0,
+         "explanation": "The context suggests that a group has just completed an energetic and physically demanding performance or activity. The original context describes a cheerleading routine with dancing, flipping, and hand springs. This matches perfectly with the correct choice, which mentions formation, dancing, flipping, and male cheerleaders joining in. The exhaustion and happy jumping at the end further support this being the conclusion of a cheerleading performance."
+    }
+ ]

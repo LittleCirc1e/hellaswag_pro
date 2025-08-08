@@ -1,0 +1,3 @@
+[
+    "假设你是一个案例生成器。给定original_context、original_choices、original_label，你的目标是根据 perturbation_type 生成 context、choices、label 和 explanation。你的输出应该是一个字典，其键是 original_context、original_choices、original_label、perturbation_type、context、choices、label 和 explanation。我将提供一些示例，你应该模仿我的案例生成过程。你可以与提供给你的 perturbation_type 保持一致。\n\n案例1\n{}\n\n案例2\n{}\n\n案例3\n{}\n\n我希望你首先在original_choices的错误选项中选择一个相对合理的选项，然后对original_context做最小修改作为context，让其可以选择该选项作为正确选项。choices的值等于original_choices的值。label的值等于选择的错误选项对应的值。这个转换过程希望对上下文进行细化，从而可以改变正确选项。因此，如何转换以下案例？\noriginal_context:{}\noriginal_choices:{}\noriginal_label:{}\n 请记住只输出字典，而不是其他内容。"
+]

@@ -1,0 +1,52 @@
+[
+     {
+          "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+          "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+          "original_label": 3,
+          "perturbation_type": "sentence_sorting",
+          "context": " 1. She bends down and grabs the pole. 2. A lady walks to a barbell. 3. The lady stands and lifts the weight over her head. Which is the correct order?",
+          "choices": ["2-1-3","3-2-1","3-1-2","1-3-2"],
+          "label": 0,
+          "explanation": "First, put the original_context (A lady walks to a barbell. She bends down and grabs the pole. the lady) and the original_label (3) corresponding to the original_choices (stands and lifts the weight over her head.) into a complete paragraph, paying attention to the conversion of uppercase and lowercase (The lady). Then shuffle the order of the sentences and mark them with serial numbers. Then, for the overall fluency, add the sentence (Which is the correct order?) to the end. The correct option is the order corresponding to the original paragraph (2-1-3), and is placed in the first position of choices, and the label is set to 0. The other three wrong options disrupt the order of the numbers in the correct option."
+     },
+     {
+
+          "original_context": "He then takes the knife and sharpens it against the wood piece. He then notices a little black and green poisonous frog sitting next to him. the frog",
+          
+          "original_choices": ["eventually gets to get up and marches out of the room waving its body about.", "then starts to get up from the chair and begins walking towards the camera.", "then escapes and jumps away.", "is acting crazy and attacking him while he is cooking."],
+          
+          "original_label": 2,
+          
+          "perturbation_type": "sentence_sorting",
+          
+          "context": "1. The frog then escapes and jumps away. 2. He then notices a little black and green poisonous frog sitting next to him. 3. He then takes the knife and sharpens it against the wood piece. Which is the correct order?",
+          
+          "choices": ["3-2-1", "1-3-2", "2-1-3", "2-3-1"],
+          
+          "label": 0,
+          
+          "explanation": "First, I combined the original_context with the original_choice corresponding to the original_label (2) to form a complete paragraph. Then, I shuffled the order of the sentences and marked them with serial numbers. I added 'Which is the correct order?' at the end for overall fluency. The correct option is the order corresponding to the original paragraph (3-2-1), which I placed as the first choice, setting the label to 0. The other three options are wrong and were created by shuffling the numbers in the correct option."
+          
+     },
+     {
+
+          "original_context": "A black female is shown in a room with a black scarf around her head. Black spots on her faced are then zoomed in on and she begins to apply something on it. next",
+          
+          "original_choices": [", she begins to brush her lips and make painted lips look just like a lipstick to the camera and ends with her closing gift and instruction showing her off at the end.", "she is shown in various different locations and gets extremely close to a wall.", ", she is shown making multiple moans and sprays some kind of liquid down her face before hanging up.", ", she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over."],
+          
+          "original_label": 3,
+          
+          "perturbation_type": "sentence_sorting",
+          
+          "context": "1. Black spots on her faced are then zoomed in on and she begins to apply something on it. 2. Next, she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over. 3. A black female is shown in a room with a black scarf around her head. Which is the correct order?",
+          
+          "choices": ["3-1-2", "2-3-1", "1-2-3", "2-1-3"],
+          
+          "label": 0,
+          
+          "explanation": "First, the original_context and the original_choice corresponding to the original_label (3) were combined into a complete paragraph. Then, the sentences were shuffled and marked with serial numbers. The sentence 'Which is the correct order?' was added at the end for overall fluency. The correct option (3-1-2) represents the order of the original paragraph and is placed as the first choice, with the label set to 0. The other three options are incorrect variations of the number order in the correct option."
+          
+          }
+          
+          
+ ]

@@ -1,0 +1,35 @@
+[
+    {
+         "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+         "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+         "original_label": 3,
+         "perturbation_type": "critical_thinking",
+         "context": "A lady walks to a barbell. She bends down and grabs the pole. The lady suddenly realizes she forgot her weightlifting gloves and decides to postpone her workout. The lady",
+         "choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head.", "None of the above four options are suitable."],
+         "label": 4,
+         "explanation": "The context has been modified to create a scenario where none of the original options are applicable. The lady decides not to proceed with her workout due to forgetting her gloves, making all the original choices irrelevant. Note that the ending word should be consistent with 'the lady' in the original_context. Also, note the conversion of the ending word to upper and lower case. A fifth option, 'None of the above four options are suitable.', has been added as the correct choice. This modification tests the model's ability to recognize when no given option is appropriate and to choose the 'None of the above' option, thus evaluating critical thinking skills."          
+     },
+     {
+
+      "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+      "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+      "original_label": 1,
+      "perturbation_type": "critical_thinking",
+      "context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. Suddenly, he hears a loud noise and decides to investigate, putting away his knife. Then he",
+      "choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure.", "None of the above four options are suitable."],
+      "label": 4,
+      "explanation": "The context has been modified to create a scenario where none of the original options are applicable. The man decides to investigate a loud noise and puts away his knife, making all the original choices irrelevant. Note that the ending phrase 'then he' is consistent with the original_context. Also, note the conversion of the ending word to upper and lower case. A fifth option, 'None of the above four options are suitable.', has been added as the correct choice. This modification tests the model's ability to recognize when no given option is appropriate and to choose the 'None of the above' option, thus evaluating critical thinking skills."
+      
+      }
+,
+    {
+        "original_context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they",
+        "original_choices": ["are done, they shake hands and walk away, but cheers are heard all around as they're finished.", "are finished, they jump up and down happily and walk off the stage, exhausted.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing."],
+        "original_label": 1,
+        "perturbation_type": "critical_thinking",
+        "context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. Suddenly, the fire alarm goes off, and everyone stops their performance immediately. When they",
+        "choices": ["are done, they shake hands and swalk away, but cheers are heard all around as they're finished.", "are finished, they jump up and down happily and walk off the stage, exhausted.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing.", "None of the above four options are suitable"],
+        "label": 4,
+        "explanation": "The context has been modified to create a scenario where none of the original options are applicable. The unexpected fire alarm interrupts the performance, making all the original choices irrelevant. The ending phrase 'When they' is maintained to be consistent with the original context. Also, note the conversion of the ending word to upper and lower case. A fifth option, 'None of the above four options are suitable', has been added as the correct choice. This modification tests the model's ability to recognize when no given option is appropriate and to choose the 'None of the above' option, thus evaluating critical thinking skills. "
+        }        
+        ]

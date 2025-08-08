@@ -1,0 +1,154 @@
+总共处理的条目数: 800
+找到匹配的条目数: 800
+
+不同activity_label的统计 (按数量降序排列):
+Ice fishing: 44
+Sharpening knives: 39
+Running a marathon: 38
+Cutting the grass: 36
+Playing violin: 34
+Washing face: 34
+High jump: 31
+Clean and jerk: 30
+Having an ice cream: 27
+Playing harmonica: 22
+Gargling mouthwash: 18
+Layup drill in basketball: 18
+Making a lemonade: 9
+Baking cookies: 8
+Hand car wash: 8
+Cheerleading: 8
+Skiing: 7
+Playing water polo: 7
+Bathing dog: 7
+Painting furniture: 7
+Disc dog: 7
+Playing beach volleyball: 6
+Shoveling snow: 6
+Carving jack-o-lanterns: 6
+Calf roping: 6
+Playing pool: 6
+Elliptical trainer: 5
+Making a cake: 5
+Doing a powerbomb: 5
+Applying sunscreen: 5
+Cleaning windows: 5
+Wakeboarding: 5
+Shot put: 5
+Rope skipping: 5
+Rollerblading: 5
+Playing guitarra: 5
+Playing polo: 5
+Using parallel bars: 5
+Waterskiing: 5
+Polishing shoes: 5
+Spinning: 5
+Beer pong: 4
+Discus throw: 4
+Scuba diving: 4
+Shuffleboard: 4
+Putting in contact lenses: 4
+Kneeling: 4
+Baton twirling: 4
+Raking leaves: 4
+Dodgeball: 4
+Clipping cat claws: 4
+Futsal: 4
+Cleaning shoes: 4
+Mixing drinks: 4
+Arm wrestling: 4
+Getting a piercing: 4
+Surfing: 4
+Decorating the Christmas tree: 4
+Doing motocross: 4
+Camel ride: 4
+Powerbocking: 4
+Starting a campfire: 4
+Polishing forniture: 4
+Vacuuming floor: 3
+Blowing leaves: 3
+Cricket: 3
+Plataform diving: 3
+Putting on makeup: 3
+Tennis serve with ball bouncing: 3
+Playing saxophone: 3
+Swimming: 3
+Playing congas: 3
+Installing carpet: 3
+Building sandcastles: 3
+Hitting a pinata: 3
+Shaving: 3
+Longboarding: 3
+Making a sandwich: 3
+Preparing pasta: 3
+Playing bagpipes: 3
+Croquet: 3
+Wrapping presents: 3
+Pole vault: 3
+Playing blackjack: 3
+Playing piano: 3
+Spread mulch: 3
+Shaving legs: 3
+Rock-paper-scissors: 3
+BMX: 3
+Brushing teeth: 3
+Smoking hookah: 3
+Grooming dog: 2
+Rock climbing: 2
+Tumbling: 2
+Roof shingle removal: 2
+Slacklining: 2
+Smoking a cigarette: 2
+Long jump: 2
+Hanging wallpaper: 2
+Doing crunches: 2
+Playing drums: 2
+Tai chi: 2
+Hopscotch: 2
+Table soccer: 2
+Laying tile: 2
+Mooping floor: 2
+Hand washing clothes: 2
+Assembling bicycle: 2
+Ballet: 2
+River tubing: 2
+Capoeira: 2
+Ironing clothes: 2
+Triple jump: 2
+Doing fencing: 2
+Knitting: 2
+Walking the dog: 2
+Preparing salad: 2
+Plastering: 2
+Bullfighting: 1
+Cleaning sink: 1
+Drinking beer: 1
+Doing kickboxing: 1
+Playing rubik cube: 1
+Removing ice from car: 1
+Volleyball: 1
+Paintball: 1
+Playing accordion: 1
+Fixing bicycle: 1
+Removing curlers: 1
+Getting a tattoo: 1
+Using uneven bars: 1
+Welding: 1
+Braiding hair: 1
+Ping-pong: 1
+Zumba: 1
+Fun sliding down: 1
+Playing lacrosse: 1
+Playing badminton: 1
+Hurling: 1
+Snow tubing: 1
+Doing karate: 1
+Archery: 1
+Windsurfing: 1
+Sumo: 1
+Drum corps: 1
+Mowing the lawn: 1
+Using the rowing machine: 1
+Horseback riding: 1
+
+不同activity_label的总数: 148

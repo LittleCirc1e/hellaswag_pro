@@ -1,0 +1,32 @@
+[
+    {
+         "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+         "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+         "original_label": 3,
+         "perturbation_type": "problem_reparagraphing",
+         "context": "A woman approaches a weightlifting bar. She lowers her body and grasps the metal rod. The woman",
+         "choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "rises and hoists the barbell above her head."],
+         "label": 3,
+         "explanation": "The context has been rephrased while maintaining the same meaning. The correct answer choice (original_label: 3) has been rephrased to 'rises and hoists the barbell above her head' while keeping the same semantics. The other choices remain unchanged as per the instructions."
+    },
+    {
+        "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+        "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+        "original_label": 1,
+        "perturbation_type": "problem_reparagraphing",
+        "context": "In a remote wilderness area, a man is perched on some rocks, clutching a pocket knife. Subsequently, he",
+        "choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "retrieves a small pebble from the nearby flowing stream and proceeds to strike it against another rock.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+        "label": 1,
+        "explanation": "The context has been rephrased to provide a more vivid description of the scene while maintaining the original meaning. The correct choice (original_label: 1) has been reworded to use slightly different vocabulary and sentence structure, while preserving the core action and meaning. The other choices remain unchanged as per the instructions."
+   },
+    {
+        "original_context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they",
+        "original_choices": ["are done, they shake hands and walk away, but cheers are heard all around as they're finished.", "are finished, they jump up and down happily and walk off the stage, exhausted.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing."],
+        "original_label": 1,
+        "perturbation_type": "problem_reparagraphing",
+        "context": "The cheerleaders form their positions and start their routine, incorporating dance moves and acrobatic flips. Male cheerleaders join in, and the entire squad continues with their energetic performance, showcasing handsprings and other impressive stunts. As they",
+        "choices":  ["are done, they shake hands and walk away, but cheers are heard all around as they're finished.", "conclude their routine, they leap up and down with excitement before exiting the stage, visibly tired from their performance.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing."],
+        "label": 1,
+        "explanation": "The context has been rephrased to provide a more detailed and fluid description of the cheerleading routine. The correct choice (original_label: 1) has been rephrased to maintain the same meaning while using different wording. The other choßices remain unchanged as per the instructions. The overall semantics of the context and the correct choice have been preserved while providing a smoother and more elaborate description."
+   }
+]

@@ -1,0 +1,33 @@
+[
+     {
+          "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+          "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+          "original_label": 3,
+          "perturbation_type": "abductive_reasoning",
+          "context": "A lady walks to a barbell. She bends down and grabs the pole. The lady stands and lifts the weight over her head. Which could be the possible reason for this action?",
+          "choices": ["She is performing a weightlifting exercise.","She is trying to make the barbell float in mid-air.","She is attempting to turn the barbell into a magic wand.","She is using the barbell as a telescope to look at stars.","She is trying to scare away birds with the barbell.","She is preparing to throw the barbell like a javelin.","She is attempting to use the barbell as a giant pencil.","She is trying to balance the barbell on her nose.","She is using the barbell to practice her juggling skills.","She is attempting to use the barbell as a musical instrument."],
+          "label": 0,
+          "explanation": "The correct option is 'She is performing a weightlifting exercise.' This is the most logical and common-sense reason for a person to approach a barbell, grab it, and lift it over their head. Weightlifting is a common form of exercise and strength training, which explains the lady's actions in the given context. The other options are clearly incorrect and contain absurd or impossible scenarios that do not align with the typical use of a barbell or common exercise practices."
+     },
+     {
+         "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+         "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+         "original_label": 1,
+         "perturbation_type": "abductive_reasoning",
+         "context":"A man is holding a pocket knife while sitting on some rocks in the wilderness. Then he takes a small stone from the flowing river and smashes it on another stone. Which could be the possible reason for this action?",
+         "choices": ["He's practicing a survival skill to create sharp stone tools.", "He's trying to communicate with aliens through rock vibrations.","He's attempting to make the river flow backwards.","He's testing if the stone is actually made of cheese.","He's hoping to find gold inside the ordinary-looking river stones.","He's performing a ritual to summon a forest spirit.","He's trying to start a fire by rubbing two wet stones together.","He's measuring the rock's durability for his geology homework.","He's creating a new type of smoothie using only rocks and river water.","He's attempting to teach the stones how to swim."],
+         "label": 0,
+         "explanation": "The most plausible reason for the man's action is that he's practicing a survival skill to create sharp stone tools. In a wilderness setting, knowing how to create tools from natural materials is a valuable skill for survival situations. The other options are clearly unrealistic or nonsensical, making them incorrect choices."
+    },
+    {
+         "original_context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they",
+         "original_choices": ["are done, they shake hands and walk away, but cheers are heard all around as they're finished.", "are finished, they jump up and down happily and walk off the stage, exhausted.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing."],
+         "original_label": 1,
+         "perturbation_type": "abductive_reasoning",
+         "context":"They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. When they are finished, they jump up and down happily and walk off the stage, exhausted. Which could be the possible reason for this action?",
+         "choices": ["They are celebrating a successful performance and releasing adrenaline.","They are trying to intimidate the opposing team's cheerleaders.","They are protesting against the judges' unfair scoring.","They are attempting to attract attention from talent scouts in the audience.","They are performing a secret ritual to summon good luck for their team.","They are practicing for an upcoming earthquake drill.","They are trying to cool down by creating a breeze with their movements.","They are competing to see who can jump the highest after the routine.","They are signaling aliens watching from space that the show is over.","They are attempting to break a world record for post-performance jumping."],
+         "label": 0,
+         "explanation": "The correct option is 'They are celebrating a successful performance and releasing adrenaline.' This is the most plausible reason for the cheerleaders' actions after finishing their routine. Jumping up and down happily is a common way to express joy and excitement after a successful performance, and the exhaustion mentioned indicates they put a lot of effort into their routine. The other options contain incorrect or implausible reasons that don't align with typical cheerleading behavior or common sense."
+          
+     }
+ ]

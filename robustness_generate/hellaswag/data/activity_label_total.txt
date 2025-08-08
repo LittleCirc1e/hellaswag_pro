@@ -1,0 +1,222 @@
+Activity Label	Count
+Personal Care and Style	2627
+Hobbies and Crafts	2442
+Food and Entertaining	1018
+Family Life	980
+Arts and Entertainment	908
+Health	865
+Computers and Electronics	862
+Home and Garden	743
+Finance and Business	530
+Pets and Animals	507
+Education and Communications	399
+Youth	288
+Sports and Fitness	287
+Relationships	234
+Work World	179
+Cars & Other Vehicles	168
+Running a marathon	140
+Sharpening knives	138
+Clean and jerk	137
+Washing face	136
+Cutting the grass	131
+Ice fishing	127
+Playing violin	121
+High jump	117
+Having an ice cream	116
+Layup drill in basketball	111
+Rafting	97
+Playing harmonica	97
+Changing car wheel	93
+Playing ten pins	90
+Using the balance beam	90
+Travel	87
+Doing nails	86
+Riding bumper cars	81
+Holidays and Traditions	74
+Tug of war	72
+Painting fence	70
+Hammer throw	68
+Washing dishes	63
+Gargling mouthwash	63
+Philosophy and Religion	62
+Snowboarding	61
+Using the monkey bar	61
+Grooming horse	60
+Playing field hockey	59
+Bungee jumping	56
+Making a lemonade	56
+Springboard diving	55
+Swinging at the playground	55
+Preparing pasta	53
+Disc dog	53
+Cheerleading	52
+Making a cake	50
+Playing flauta	50
+Making an omelette	49
+Curling	48
+Futsal	48
+Cumbia	47
+Waxing skis	47
+Waterskiing	47
+Doing step aerobics	46
+Snow tubing	43
+Brushing hair	43
+Skiing	42
+Playing pool	39
+Peeling potatoes	38
+Using parallel bars	37
+Baking cookies	37
+Playing guitarra	36
+Spinning	36
+Calf roping	35
+Making a sandwich	35
+Surfing	35
+Shaving	35
+Playing racquetball	34
+Rope skipping	34
+Ping-pong	34
+Hand car wash	33
+Scuba diving	33
+Belly dance	32
+Arm wrestling	32
+Ironing clothes	32
+Mixing drinks	32
+Playing drums	32
+Blow-drying hair	31
+Welding	31
+Javelin throw	30
+Chopping wood	30
+Carving jack-o-lanterns	30
+Doing karate	30
+Horseback riding	29
+Elliptical trainer	29
+Playing water polo	29
+Doing crunches	29
+Wrapping presents	29
+Getting a tattoo	29
+Starting a campfire	28
+Doing a powerbomb	28
+Polishing forniture	28
+Hanging wallpaper	28
+Applying sunscreen	28
+Playing blackjack	27
+Skateboarding	27
+Fun sliding down	27
+Assembling bicycle	27
+Getting a piercing	27
+Walking the dog	26
+Smoking hookah	26
+Putting in contact lenses	26
+Cleaning windows	26
+Removing ice from car	25
+Grooming dog	25
+Playing lacrosse	25
+Beach soccer	25
+Putting on makeup	25
+Clipping cat claws	25
+Beer pong	24
+Rock climbing	24
+Blowing leaves	24
+Shoveling snow	24
+Playing congas	23
+Braiding hair	23
+Playing polo	23
+Polishing shoes	23
+Plataform diving	23
+Drinking beer	22
+Longboarding	22
+Getting a haircut	22
+Baton twirling	22
+Capoeira	22
+Roof shingle removal	22
+Powerbocking	22
+Long jump	22
+Hand washing clothes	22
+Playing badminton	22
+Playing saxophone	22
+Dodgeball	22
+Hitting a pinata	22
+Slacklining	22
+Painting furniture	22
+Wakeboarding	21
+Canoeing	21
+Playing beach volleyball	21
+Installing carpet	21
+Rollerblading	21
+Paintball	21
+River tubing	20
+Pole vault	20
+Cleaning sink	20
+Tennis serve with ball bouncing	20
+Shot put	20
+Doing fencing	19
+Windsurfing	19
+Rock-paper-scissors	19
+Sailing	19
+Washing hands	19
+Shuffleboard	18
+Painting	18
+Brushing teeth	18
+Laying tile	18
+Mooping floor	18
+Ballet	18
+Triple jump	18
+Table soccer	18
+Volleyball	18
+Kayaking	18
+Croquet	18
+Discus throw	18
+Vacuuming floor	17
+Trimming branches or hedges	17
+Tai chi	17
+Bullfighting	17
+Removing curlers	17
+Preparing salad	17
+Mowing the lawn	17
+Bathing dog	17
+Swimming	17
+Camel ride	17
+Archery	16
+Knitting	16
+Throwing darts	16
+Using uneven bars	16
+Cleaning shoes	16
+Using the rowing machine	15
+Playing ice hockey	15
+Playing bagpipes	15
+Hopscotch	15
+Doing kickboxing	15
+Smoking a cigarette	15
+Tango	15
+Uncategorized	15
+Hurling	14
+Breakdancing	14
+BMX	14
+Spread mulch	13
+Playing rubik cube	13
+Drum corps	13
+Hula hoop	13
+Building sandcastles	13
+Snatch	13
+Decorating the Christmas tree	13
+Zumba	13
+Raking leaves	13
+Kneeling	13
+Using the pommel horse	13
+Sumo	12
+Shaving legs	12
+Playing piano	11
+Playing squash	11
+Drinking coffee	11
+Plastering	11
+Tumbling	10
+Doing motocross	10
+Fixing bicycle	10
+Playing accordion	9
+Cricket	9
+Fixing the roof	8
+Playing kickball	7
+Kite flying	7
+Putting on shoes	7
+Home,Categories	6

@@ -1,0 +1,71 @@
+[
+    {
+         "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+         "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+         "original_label": 3,
+         "perturbation_type": "negative_testing",
+         "context": "A woman approaches a weightlifting bar. She lowers her body and grasps the metal rod. The lady will not",
+         "choices": [
+
+          "swing and land in her arms.",
+
+          "stand and lift the weight over her head.",
+          
+          "drop the barbell and walk away.",
+          
+          "adjust her grip and lift the weight."
+          
+          ],
+          
+          "label": 0,
+          
+          "explanation": "The context has been modified to end with the negative word 'will not'. The options now include the least plausible of the original_choices (swing and land in her arms) and the original correct answer (stand and lift the weight over her head). Two new plausible options that fit the negative context have been added: drop the barbell and walk away, and adjust her grip and lift the weight. The least plausible option (swing and land in her arms) is put in the first position of choices and the value of label is set to 0. In addition, verb tense changes and capitalization conversions are considered."
+          
+     },
+     {
+        "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+        "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+        "original_label": 1,
+        "perturbation_type": "negative_testing",
+        "context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. Then he will not",
+        "choices": [
+          "open a can of oil, put oil on the knife, and press it through a can filled with oil then cut several pieces from the sandwiches.",
+
+          "take a small stone from the flowing river and smash it on another stone.",
+
+          "use the knife to carve his initials into a nearby tree.",
+
+          "clean the knife blade with a piece of cloth."
+
+          
+          ],
+        "label": 0,
+        "explanation": "The context has been modified to end with the negative phrase 'will not'. The options now include the least plausible of the original_choices (open a can of oil, put oil on the knife, and press it through a can filled with oil then cut several pieces from the sandwiches.) and the original correct answer (take a small stone from the flowing river and smash it on another stone.). Two new plausible options that fit the negative context have been added: use the knife to carve his initials into a nearby tree, and clean the knife blade with a piece of cloth. The least plausible option (open a can of oil, put oil on the knife, and press it through a can filled with oil then cut several pieces from the sandwiches.) is put in the first position of choices and the value of label is set to 0. Verb tense changes and capitalization corrections have been applied consistently throughout the conversion process."
+
+}
+
+,
+    {
+        "original_context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they",
+        "original_choices": ["are done, they shake hands and walk away, but cheers are heard all around as they're finished.", "are finished, they jump up and down happily and walk off the stage, exhausted.", "are done, a male cheerleader is crowned and an instant replay is shown.", "come down from their workout, they all stop to bow and applaud, then they continue dancing."],
+        "original_label": 1,
+        "perturbation_type": "negative_testing",
+        "context": "The cheerleaders form their positions and start their routine, incorporating dance moves and acrobatic flips. Male cheerleaders join in, and the entire squad continues with their energetic performance, showcasing handsprings and other impressive stunts. When they are finished, they will not",
+        "choices": [
+        "come down from their workout, stop to bow and applaud, then continue dancing.",
+        
+        "jump up and down happily and walk off the stage, exhausted.",
+        
+        "leave the performance area with acknowledging the audience.",
+        
+        "strike a final pose, beaming with excitement as the crowd erupts in applause."
+        
+        ],
+        
+        "label": 0,
+        
+        "explanation": "The context has been modified to end with the negative phrase 'will not'. The option corresponding to the original_label (1) has been kept and slightly rephrased. The most unreasonable option from the original choices (option 3) has been adapted and included. Two new reasonable options that fit the negative context have been added: leave the performance area with acknowledging the audience and strike a final pose, beaming with excitement as the crowd erupts in applause. The least plausible option (come down from their workout, stop to bow and applaud, then continue dancing.) is put in the first position of choices and the value of label is set to 0. Verb tenses and capitalization have been adjusted for consistency."
+        
+        }
+        
+        ]

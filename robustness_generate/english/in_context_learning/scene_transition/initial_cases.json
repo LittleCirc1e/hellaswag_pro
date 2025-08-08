@@ -1,0 +1,35 @@
+[
+    {
+         "original_context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+         "original_choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+         "original_label": 3,
+         "perturbation_type": "scene_transition",
+         "context": "A lady walks to a barbell. She bends down and grabs the pole. The lady hesitates for a moment, then changes her mind. Instead of lifting the barbell, she",
+         "choices": ["swings and lands in her arms.", "pulls the barbell forward.", "pulls a rope attached to the barbell.", "stands and lifts the weight over her head."],
+         "label": 1,
+         "explanation": "In this converted case, I chose option 1 (pulls the barbell forward.) in original_choices as the new correct answer. So the label is equal to 1, which is the serial number of the selected option in original_choices. The context has been modified to create a scene transition where the lady changes her mind about lifting the barbell overhead. Instead, she pulls the barbell forward, which is a different exercise. This change maintains consistency in vocabulary and tense while altering the outcome of the action. The capitalization has also been corrected in the new context."          
+     },
+     {
+        "original_context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+        "original_choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+        "original_label": 1,
+        "perturbation_type": "scene_transition",
+        "context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. Then he notices his leg hair is getting too long. He looks around to make sure no one is watching, and",
+        "choices": ["opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.", "takes a small stone from the flowing river and smashes it on another stone.", "uses the knife to shave his leg.", "sand the rocks and tops them by using strong pressure."],
+        "label": 2,
+        "explanation": "In this converted case, I chose option 2 (uses the knife to shave his leg.) in original_choices as the new correct answer. So the label is equal to 2, which is the serial number of the selected option in original_choices. The context has been modified to create a scene transition where the man notices his leg hair and decides to shave it with the pocket knife he's holding. This change maintains consistency in vocabulary and tense while altering the outcome of the action. The capitalization has also been corrected in the new context, starting the sentence with 'Then' instead of 'then'. The choices remain the same as the original, and the new label corresponds to the newly selected correct option."
+}
+,
+    {
+        "original_context": "Two men are on a platform, fencing. they",
+        "original_choices":  [", the male hits the violin just once, get the pitch.", ", the young man stops playing and pass on front a row of drummers.", ", the young man finish playing and take off the headsets.", ", the young man stands up to demonstrate how to play, after he plays in stairs."],
+        "original_label": 2,
+        "perturbation_type": "scene_transition",
+        "context": "Two men are on a platform, fencing. They stop the match and one of them picks up a violin. Then",
+        "choices": [", the male hits the violin just once, get the pitch.", ", the young man stops playing and pass on front a row of drummers.", ", the young man finish playing and take off the headsets.", ", the young man stands up to demonstrate how to play, after he plays in stairs."],
+        "label": 0,
+        "explanation": "In this converted case, I chose option 0 (the male hits the violin just once, get the pitch.) in original_choices as the new correct answer. So the label is equal to 0, which is the serial number of the selected option in original_choices. The context has been modified to create a scene transition where the fencing stops and one of the men picks up a violin. This change allows for the selection of the violin-related option while maintaining consistency in the scene. The capitalization has been corrected in the new context. Note that the grammatical errors in the original choices have been preserved as per the instructions."
+
+        }
+        
+        ]
